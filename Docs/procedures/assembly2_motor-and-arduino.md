@@ -12,13 +12,13 @@ The 7th of March of 2019
 
 ## Purpose of the document
 
-
+- This document is a procedure that have to be used to assemble the motor and its support to an arduino UNO to control the motor.
 
 ## 1. Hardware list
 
 1. EMG30 motor with blue support assembly X1
 
-     <img src="../Pictures/assembly5.jpg" width="400px"/>
+    <img src="../Pictures/assembly5.jpg" width="400px"/>
 
 2. Arduino Uno X1
 
@@ -44,16 +44,16 @@ The 7th of March of 2019
 
 ## 3. Assembly procedure : motor to the arduino
 
-### First step
-- Download the arduino program motor_control_open_loop on the laptop.
+### 1. Download the program
+- Download the arduino program motor_control_open_loop on the laptop. This program is in the folder */sources/motor_control_open_loop*.
 
 1. 
     <img src="../Pictures/laptop.jpg" width="400px"/>
 
-### Second step
-- Download the DRV8835MotorShield librarie into the arduino IDE.
+### 2. Download the librarie
+- Download the DRV8835MotorShield librarie into the arduino IDE. [How to install the library](https://github.com/pololu/drv8835-motor-shield).
 
-### Third step
+### 3. Laptop-arduino wiring
 - Wire the laptop to the arduino with the USB cable.
 
 1. 
@@ -62,16 +62,16 @@ The 7th of March of 2019
 2. 
     <img src="../Pictures/USB-PC.jpg" width="400px"/>
 
-### Fourth step
-- Download the software on the arduino UNO and verify if the LED blinks every 2 secondes on the arduino. After, unwire the USB cable from the arduino and the laptop.
+### 4. LED blinking
+- Download the *motor_control_open_loop* software on the arduino UNO and verify if the LED blinks every 2 secondes on the arduino. After, unwire the USB cable from the arduino and the laptop.
 
-### Fifth step
+### 5. Jumper wiring
 - Put the jumper on the motor shield on the VOUT pin, like on the picture.
 
 1. 
     <img src="../Pictures/shield-motor-with-jumper.jpg" width="400px"/>
 
-### Sixth step
+### 6. Pin the shield
 - Pin the arduino shield on the arduino. The Vcc pin of the shield have to be on the 5V pin of the arduino. Verify that pins of the shield are on rights pins of the arduino.
 
 1. 
@@ -80,7 +80,7 @@ The 7th of March of 2019
 2. 
     <img src="../Pictures/assembly7.jpg" width="400px"/>
 
-### Seventh step
+### 7. Plug the motor wires to the motor shield
 - Plug the red and black wires of motor in the M1B and M1A pins of the motor shield.
 
 1. 
