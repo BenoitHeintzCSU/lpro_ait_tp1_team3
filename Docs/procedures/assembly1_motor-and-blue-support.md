@@ -16,25 +16,24 @@ The 7th of March of 2019
 - This document is a procedure that have to be used to assemble the motor to its support.
 
 ## 1. Hardware list
+ 
+- EMG30 motor X1
 
-1. 
-    - EMG30 motor X1
+    <img src="../Pictures/Motor+reductor.jpg" width="400px"/>
 
-        <img src="../Pictures/Motor+reductor.jpg" width="400px"/>
+- EMG30 motor front side 
 
-    - EMG30 motor front side 
+    <img src="../Pictures/front-side-motor.jpg" width="400px"/>
 
-        <img src="../Pictures/front-side-motor.jpg" width="400px"/>
+- EMG30 motor references
 
-    - EMG30 motor references
+    <img src="../Pictures/reference-motor.jpg" width="400px"/>
 
-        <img src="../Pictures/reference-motor.jpg" width="400px"/>
-
-2. Blue motor support X1
+- Blue motor support X1
 
     <img src="../Pictures/Motor-shelf.jpg" width="400px"/>
 
-3. M3 Srew (6mm) X3
+- M3 Srew (6mm) X3
 
     <img src="../Pictures/screw.jpg" width="400px"/>
 
@@ -52,24 +51,19 @@ The 7th of March of 2019
 <!--<span style="color:red">Because of the aligment, the text above is interpreted as a **Code block**. It's not a code, so make sure it appears some other way.</span>
 
 <span style="color:red">I personaly prefere titles like: **1. Short name of the step**, than: **First step**.</span>-->
+ 
+- <img src="../Pictures/screw-holes.jpg" width="400px"/>
 
-1. 
-    <img src="../Pictures/screw-holes.jpg" width="400px"/>
+- <img src="../Pictures/assembly1.jpg" width="400px"/>
 
-2. 
-    <img src="../Pictures/assembly1.jpg" width="400px"/>
-
-3. 
-    <img src="../Pictures/assembly2.jpg" width="400px"/>
+- <img src="../Pictures/assembly2.jpg" width="400px"/>
 
 ### 2. Fix the motor to its support with screws
 - Put the 3 srew into the 3 holes and screw them.
 
-1. 
-    <img src="../Pictures/assembly3.jpg" width="400px"/>
+<img src="../Pictures/assembly3.jpg" width="400px"/>
 
-2. 
-    <img src="../Pictures/assembly4.jpg" width="400px"/>
+<img src="../Pictures/assembly4.jpg" width="400px"/>
 
 ### Results
 - At the end, the result look like this:

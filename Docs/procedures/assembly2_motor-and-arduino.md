@@ -16,29 +16,29 @@ The 7th of March of 2019
 
 ## 1. Hardware list
 
-1. EMG30 motor with blue support assembly X1
+- EMG30 motor with blue support assembly X1
 
     <img src="../Pictures/assembly5.jpg" width="400px"/>
 
-2. Arduino Uno X1
+- Arduino Uno X1
 
     <img src="../Pictures/arduino.jpg" width="400px"/>
 
-3. Arduino shield - Pololu DRV8835 Dual Motor Driver with jumper X1
+- Arduino shield - Pololu DRV8835 Dual Motor Driver with jumper X1
 
     <img src="../Pictures/shield-motor.jpg" width="400px"/>
 
-4. Laptop X1
+- Laptop X1
 
     <img src="../Pictures/laptop.jpg" width="400px"/>
     
-5. USB câble X1
+- USB câble X1
 
     <img src="../Pictures/USB-cable.jpg" width="400px"/>
 
 ## 2. Tools
 
-1. Flathead screwdriver X1
+- Flathead screwdriver X1
 
     <img src="../Pictures/screwdriver.jpg" width="400px"/>
 
@@ -47,8 +47,7 @@ The 7th of March of 2019
 ### 1. Download the program
 - Download the arduino program motor_control_open_loop on the laptop. This program is in the folder */sources/motor_control_open_loop*.
 
-1. 
-    <img src="../Pictures/laptop.jpg" width="400px"/>
+<img src="../Pictures/laptop.jpg" width="400px"/>
 
 ### 2. Download the librarie
 - Download the DRV8835MotorShield librarie into the arduino IDE. [How to install the library](https://github.com/pololu/drv8835-motor-shield).
@@ -56,11 +55,9 @@ The 7th of March of 2019
 ### 3. Laptop-arduino wiring
 - Wire the laptop to the arduino with the USB cable.
 
-1. 
-    <img src="../Pictures/USB-Arduino.jpg" width="400px"/>
+<img src="../Pictures/USB-Arduino.jpg" width="400px"/>
 
-2. 
-    <img src="../Pictures/USB-PC.jpg" width="400px"/>
+<img src="../Pictures/USB-PC.jpg" width="400px"/>
 
 ### 4. LED blinking
 - Download the *motor_control_open_loop* software on the arduino UNO and verify if the LED blinks every 2 secondes on the arduino. After, unwire the USB cable from the arduino and the laptop.
@@ -68,26 +65,21 @@ The 7th of March of 2019
 ### 5. Jumper wiring
 - Put the jumper on the motor shield on the VOUT pin, like on the picture.
 
-1. 
-    <img src="../Pictures/shield-motor-with-jumper.jpg" width="400px"/>
+<img src="../Pictures/shield-motor-with-jumper.jpg" width="400px"/>
 
 ### 6. Pin the shield
 - Pin the arduino shield on the arduino. The Vcc pin of the shield have to be on the 5V pin of the arduino. Verify that pins of the shield are on rights pins of the arduino.
 
-1. 
-    <img src="../Pictures/assembly6.jpg" width="400px"/>
+<img src="../Pictures/assembly6.jpg" width="400px"/>
 
-2. 
-    <img src="../Pictures/assembly7.jpg" width="400px"/>
+<img src="../Pictures/assembly7.jpg" width="400px"/>
 
 ### 7. Plug the motor wires to the motor shield
 - Plug the red and black wires of motor in the M1B and M1A pins of the motor shield.
 
-1. 
-    <img src="../Pictures/wires.jpg" width="400px"/>
+<img src="../Pictures/wires.jpg" width="400px"/>
 
-2. 
-    <img src="../Pictures/assembly8.jpg" width="400px"/>
+<img src="../Pictures/assembly8.jpg" width="400px"/>
 
 ### Results
 - At the end, the result look like this:
