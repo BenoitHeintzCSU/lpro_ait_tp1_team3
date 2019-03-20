@@ -1,4 +1,4 @@
-# LPro AIT 2019 - TP1 - Assembly procedure : motor to the arduino
+# LPro AIT 2019 - TP1 - Assembly procedure : assembly2 and compass
 
 - Names
     - Loris ARNAUD
@@ -8,29 +8,16 @@ The 20th of March of 2019
 
 ## Purpose of the document
 
-- This document is a procedure that have to be used to assemble the motor and its support to an arduino UNO to control the motor.
+- This document is a procedure that have to be used to assemble the assembly2 (*/procedures*) and the compass.
 
 ## 1. Hardware list
 
-- EMG30 motor with blue support assembly X1
+- Assembly2 X1
 
-    <img src="../Pictures/assembly5.jpg" width="400px"/>
+    <img src="../Pictures/assembly9.jpg" width="400px"/>
 
-- Arduino Uno X1
+- 
 
-    <img src="../Pictures/arduino.jpg" width="400px"/>
-
-- Arduino shield - Pololu DRV8835 Dual Motor Driver with jumper X1
-
-    <img src="../Pictures/shield-motor.jpg" width="400px"/>
-
-- Laptop X1
-
-    <img src="../Pictures/laptop.jpg" width="400px"/>
-    
-- USB câble X1
-
-    <img src="../Pictures/USB-cable.jpg" width="400px"/>
 
 ## 2. Tools
 
