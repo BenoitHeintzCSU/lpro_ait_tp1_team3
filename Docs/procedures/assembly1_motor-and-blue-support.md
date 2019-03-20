@@ -11,6 +11,10 @@
 
 The 7th of March of 2019
 
+## Purpose of the document
+
+- This document is a procedure that have to be used to assemble 
+
 ## 1. Hardware list
 
 1. 
@@ -43,7 +47,8 @@ The 7th of March of 2019
 ## 3. Assembly procedure : motor to the blue support
 
 ### First step
-    Put the motor axis into the big hole of the blue support, like on the pictures. Warning, holes in yellow circles may be in front of the 3 holes of the blue support.
+- Put the motor axis into the big hole of the blue support, like on the pictures. Warning, holes in yellow circles may be in front of the 3 holes of the blue support.
+
 <span style="color:red">Because of the aligment, the text above is interpreted as a **Code block**. It's not a code, so make sure it appears some other way.</span>
 
 <span style="color:red">I personaly prefere titles like: **1. Short name of the step**, than: **First step**.</span>
@@ -58,7 +63,7 @@ The 7th of March of 2019
     <img src="../Pictures/assembly2.jpg" width="400px"/>
 
 ### Second step
-    Put the 3 srew into the 3 holes and screw them.
+- Put the 3 srew into the 3 holes and screw them.
 
 1. 
     <img src="../Pictures/assembly3.jpg" width="400px"/>
@@ -67,7 +72,7 @@ The 7th of March of 2019
     <img src="../Pictures/assembly4.jpg" width="400px"/>
 
 ### Results
-    At the end, the result look like this:
+- At the end, the result look like this:
 
  <img src="../Pictures/assembly5.jpg" width="400px"/>
 
