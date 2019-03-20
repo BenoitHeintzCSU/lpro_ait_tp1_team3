@@ -4,7 +4,7 @@
     - Loris ARNAUD
     - Augustin GARES
 
-The 20th of March of 2019
+The 7th of March of 2019
 
 ## Purpose of the document
 
