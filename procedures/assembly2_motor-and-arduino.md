@@ -1,6 +1,6 @@
-# Correction
+<!--# Correction
 * <span style="color:red">Put **/procedures** and **/pictures** folders in **/docs**.</span>
-* <span style="color:red">Exact same remarks as the other procedure.... please read them!</span>
+* <span style="color:red">Exact same remarks as the other procedure.... please read them!</span>-->
 
 # LPro AIT 2019 - TP1 - Assembly procedure : motor to the arduino
 

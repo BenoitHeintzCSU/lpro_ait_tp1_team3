@@ -1,6 +1,6 @@
-# Correction
+<!--# Correction
 * <span style="color:red">Put **/procedures** and **/pictures** folders in **/docs**.</span>
-* <span style="color:red">A short **Purpose of the document** at the top of it could be appreciated.</span>
+* <span style="color:red">A short **Purpose of the document** at the top of it could be appreciated.</span>-->
 
 
 # LPro AIT 2019 - TP1 - Assembly procedure : motor to the blue support
