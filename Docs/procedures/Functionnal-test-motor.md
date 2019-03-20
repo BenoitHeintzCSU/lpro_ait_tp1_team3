@@ -36,9 +36,21 @@ The 20th of March of 2019
 ### 2. Arduino program verification
 - Verify that the arduino UNO has been program with the *motor_control_open_loop* software. If it's not, download the software that is in the folder */sources/motor_control_open_loop*.
 
-### Results
-- At the end, the result look like this:
+### 3. Open the Arduino software
+- Open the arduino software. In *Tool* select the arduino card and select the right COM port.
 
-<img src="../Pictures/assembly5.jpg" width="400px"/>
+### 4. Verify the following informations
+- Verify that :
+    - The motor turns clockwise for 2s then turns anticlockwise for 2s.
+    - When the motor turns clockwise, the L LED of the arduino is ON and is OFF when the motor turns anticlockwise.
+
+### Results
+
+|Action|Passed|Failed|Annotations|
+|-|-|-|-|
+|The motor turns clockwise for 2s||||
+|After, the motor turns anticlockwise for 2s||||
+|The LED is ON when the motor turns clockwise||||
+|The LED is OFF when the motor turns anticlockwise||||
 
  
