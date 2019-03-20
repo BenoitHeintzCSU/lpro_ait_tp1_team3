@@ -40,7 +40,7 @@ The 7th of March of 2019
 
 ## 2. Tools
 
-1. Flathead screwdriver X1
+- Flathead screwdriver X1
 
     <img src="../Pictures/screwdriver.jpg" width="400px"/>
 
